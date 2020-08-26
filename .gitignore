@@ -1,0 +1,9 @@
+/venv/
+/db.2sqlite3
+/db.3sqlite3
+/db.sqlite3
+.gitignore
+backend.iml
+misc.xml
+modules.xml
+vcs.xml
